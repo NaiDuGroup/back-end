@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jenia\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jenia\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_WebApplication1.1765827569.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jenia\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Jenia\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Jenia\Documents\GitHub\back-end-goodFoodMD\GoodFoodWebApi" t="IncludeFlat">
+      <e p="GoodFoodWebApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ItemController.cs" t="Include" />
+          <e p="OrderController.cs" t="Include" />
+        </e>
+        <e p="DataAccess" t="Include">
+          <e p="GoodFoodDBContext.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="GoodFood.db-shm" t="Include" />
+        <e p="GoodFood.db-wal" t="Include" />
+        <e p="GoodFoodWebApi.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20210219123512_InitialCreate.cs" t="Include" />
+          <e p="20210219123512_InitialCreate.Designer.cs" t="Include" />
+          <e p="20210219150929_secondMig.cs" t="Include" />
+          <e p="20210219150929_secondMig.Designer.cs" t="Include" />
+          <e p="GoodFoodDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Item.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+          <e p="OrderItem.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="GoodFoodWebApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApplication1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
